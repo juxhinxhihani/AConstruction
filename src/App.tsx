@@ -212,7 +212,7 @@ function App() {
                 <div className="absolute inset-0 z-0">
                     <img
                         //src="https://images.unsplash.com/photo-1594844181208-dea2c4cfc0bf"
-                        src="../src/assets/construction.jpg"
+                        src="/assets/construction.jpg"
                         alt="Tiling Background"
                         className="w-full h-full object-cover opacity-20"
                     />
@@ -350,21 +350,21 @@ function App() {
                     <div className="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-8 mt-8">
                         <div className="aspect-w-16 aspect-h-9 rounded-lg shadow-xl overflow-hidden">
                             <img
-                                src="../src/assets/construction.jpg"
+                                src="/assets/construction.jpg"
                                 alt="Tile Setting Example"
                                 className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
                             />
                         </div>
                         <div className="aspect-w-16 aspect-h-9 rounded-lg shadow-xl overflow-hidden">
                             <img
-                                src="../src/assets/background.jpg"
+                                src="/assets/background.jpg"
                                 alt="Tile Setting Example"
                                 className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
                             />
                         </div>
                         <div className="aspect-w-16 aspect-h-9 rounded-lg shadow-xl overflow-hidden">
                             <img
-                                src="../src/assets/tiler.jpg"
+                                src="/assets/tiler.jpg"
                                 alt="Tile Setting Example"
                                 className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
                             />
